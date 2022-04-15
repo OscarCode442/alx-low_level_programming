@@ -26,4 +26,3 @@ void print_diagonal(int n)
 		}
 	}
 }
-© 2022 GitHu
